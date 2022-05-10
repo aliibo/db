@@ -5,6 +5,10 @@
 -- HeidiSQL Version:             12.0.0.6468
 -- --------------------------------------------------------
 
+CREATE DATABASE IF NOT EXISTS `inovfarmh` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `inovfarm`;
+
+
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET NAMES utf8 */;
 /*!50503 SET NAMES utf8mb4 */;
